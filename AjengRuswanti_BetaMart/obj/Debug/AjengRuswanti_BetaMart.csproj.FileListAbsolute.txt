@@ -1,0 +1,11 @@
+D:\AjengRuswanti_BetaMart\AjengRuswanti_BetaMart\bin\Debug\crud.accdb
+D:\AjengRuswanti_BetaMart\AjengRuswanti_BetaMart\bin\Debug\AjengRuswanti_BetaMart.exe.config
+D:\AjengRuswanti_BetaMart\AjengRuswanti_BetaMart\bin\Debug\AjengRuswanti_BetaMart.exe
+D:\AjengRuswanti_BetaMart\AjengRuswanti_BetaMart\bin\Debug\AjengRuswanti_BetaMart.pdb
+D:\AjengRuswanti_BetaMart\AjengRuswanti_BetaMart\obj\Debug\AjengRuswanti_BetaMart.csprojAssemblyReference.cache
+D:\AjengRuswanti_BetaMart\AjengRuswanti_BetaMart\obj\Debug\AjengRuswanti_BetaMart.Form1.resources
+D:\AjengRuswanti_BetaMart\AjengRuswanti_BetaMart\obj\Debug\AjengRuswanti_BetaMart.Properties.Resources.resources
+D:\AjengRuswanti_BetaMart\AjengRuswanti_BetaMart\obj\Debug\AjengRuswanti_BetaMart.csproj.GenerateResource.cache
+D:\AjengRuswanti_BetaMart\AjengRuswanti_BetaMart\obj\Debug\AjengRuswanti_BetaMart.csproj.CoreCompileInputs.cache
+D:\AjengRuswanti_BetaMart\AjengRuswanti_BetaMart\obj\Debug\AjengRuswanti_BetaMart.exe
+D:\AjengRuswanti_BetaMart\AjengRuswanti_BetaMart\obj\Debug\AjengRuswanti_BetaMart.pdb
